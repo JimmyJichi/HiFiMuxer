@@ -21,7 +21,7 @@ git clone https://github.com/JimmyJichi/HiFiMuxer.git
 pip install -r requirements.txt
 ```
 
-3. Move the audio file to the current directory
+3. Move the audio file to the current directory. Make sure the audio codec is supported by the mp4 container (e.g. flac, m4a).
 
 4. Run the script
 
