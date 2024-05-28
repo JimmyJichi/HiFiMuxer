@@ -1,0 +1,4 @@
+pylrc
+pymediainfo
+ffmpeg-python
+yt-dlp
