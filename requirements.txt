@@ -2,3 +2,4 @@ pylrc
 pymediainfo
 ffmpeg-python
 yt-dlp
+requests
